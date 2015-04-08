@@ -12,7 +12,7 @@ import com.liantuo.weixin.util.file.FileUtil;
 
 /**
  * Redis工具类
- * @author tengbx
+ * @author aheizi
  * 
  */
 public class RedisUtil {

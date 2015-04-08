@@ -9,7 +9,7 @@ import org.apache.commons.io.output.ByteArrayOutputStream;
 /**
  * Redis对象序列化工具类
  * 
- * @author 51book
+ * @author aheizi
  * 
  */
 public class RedisSerializeUtil {
